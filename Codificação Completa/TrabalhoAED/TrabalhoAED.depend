@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1593369851 source:c:\users\bryann bueno\onedrive\Área de trabalho\programasc\trabalhoaed\main.cpp
+	<iostream>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+
